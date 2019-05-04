@@ -17,13 +17,13 @@ const routing = (
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/Contact">R Contact</Link>
+          <Link to="/Contact">Contact</Link>
         </li>
         <li>
-          <Link to="/Products">R Products</Link>
+          <Link to="/Products">Products</Link>
         </li>
         <li>
-          <Link to="/Services">R Services</Link>
+          <Link to="/Services">Services</Link>
         </li>
       </ul>
     </div>
